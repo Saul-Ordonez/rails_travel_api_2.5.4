@@ -23,7 +23,13 @@ Things you may want to cover:
 
 * ...
 
+**swagger tutorials**
 
 https://medium.com/@sushildamdhere/how-to-document-rest-apis-with-swagger-and-ruby-on-rails-ae4e13177f5d
 
 https://github.com/rswag/rswag
+
+
+**authentication tutorials**
+
+https://www.pluralsight.com/guides/token-based-authentication-with-ruby-on-rails-5-api
