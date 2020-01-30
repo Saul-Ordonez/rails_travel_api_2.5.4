@@ -27,9 +27,9 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'faker'
 gem 'bcrypt', '~> 3.1.7'
 gem 'factory_bot_rails'
-
+gem 'jwt'
 gem 'jquery-rails'
-
+gem 'simple_command'
 gem 'rswag'
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
